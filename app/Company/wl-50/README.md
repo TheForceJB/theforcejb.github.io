@@ -1,0 +1,76 @@
+
+--- 
+
+1. <a href="#concen-foot">(康生)遠紅外線養生 加拿大原木(長)桑拿桶足泡腳機</a>
+2. <a href="#concen-masha">(康生)3D手感揉搥指壓按摩椅墊/按摩墊</a>
+3. <a href="#omron">(台灣歐姆龍OMRON)體重體脂肪機</a>
+4. <a href="#samsung">(三星)運動手環Gear Fit2 Pro</a>
+5. <a href="#garmin">(GARMIN)運動手環Vivosport</a>
+6. <a href="#c100">(CADO)空氣清淨機C100</a>
+7. <a href="#c300">(CADO)空氣清淨機C300</a>
+
+
+## <a id="concen-foot">(康生)遠紅外線養生 加拿大原木(長)桑拿桶足泡腳機</a>
+
+![](assets/Concen-泡腳機/001.jpg)
+
+![](assets/Concen-泡腳機/002.gif)
+
+![](assets/Concen-泡腳機/003.gif)
+
+![](assets/Concen-泡腳機/004.jpg)
+
+![](assets/Concen-泡腳機/005.jpg)
+
+![](assets/Concen-泡腳機/006.jpg)
+
+![](assets/Concen-泡腳機/007.jpg)
+
+![](assets/Concen-泡腳機/008.jpg)
+
+
+## <a id="concen-masha">(康生)3D手感揉搥指壓按摩椅墊/按摩墊</a>
+
+![](assets/Concen-按摩墊/001.gif)
+
+![](assets/Concen-按摩墊/002.jpg)
+
+
+## <a id="omron">(台灣歐姆龍OMRON)體重體脂肪機</a>
+
+|           組合          | 商品 | 詳細規格 |
+|:-----------------------:|:-----|:--------|
+| 組合一 | 體重體脂肪機 HBF-375+低週波治療器 HV-F128 | [體重體脂肪機 HBF-375](https://www.omronhealthcare.com.tw/product/ins.php?index_prm_id=0&index_id=66) <br /> [低週波治療器HV-F128](https://www.omronhealthcare.com.tw/product/ins.php?index_prm_id=6&index_id=50)  |
+| 組合二 | 體重體脂肪機 HBF-375+手臂式血壓計 JPN-601 | [體重體脂肪機 HBF-375](https://www.omronhealthcare.com.tw/product/ins.php?index_prm_id=0&index_id=66) <br /> [低週波治療器HV-JPN-601](https://www.omronhealthcare.com.tw/product/ins.php?index_prm_id=0&index_id=72) |
+| 組合三 | 體重體脂肪機 HBF-701+低週波治療器 HV-F127   | [體重體脂肪機 HBF-701](https://www.omronhealthcare.com.tw/product/ins.php?index_prm_id=0&index_id=23) <br /> [低週波治療器HV-F127](https://www.omronhealthcare.com.tw/product/ins.php?index_prm_id=0&index_id=70) |
+| 組合四 | 體重體脂肪機 HBF-701+手臂式血壓計 JPN-500  | [體重體脂肪機 HBF-701](https://www.omronhealthcare.com.tw/product/ins.php?index_prm_id=0&index_id=23) <br /> [低週波治療器JPN-500](https://www.omronhealthcare.com.tw/product/ins.php?index_prm_id=0&index_id=70) |
+
+
+## <a id="samsung">(三星)運動手環Gear Fit2 Pro</a>
+
+![](assets/Samsung/001.jpg)
+
+![](assets/Samsung/002.jpg)
+
+![](assets/Samsung/003.jpg)
+
+![](assets/Samsung/004.jpg)
+
+
+
+## <a id="garmin">(GARMIN)運動手環Vivosport</a>
+
+![](assets/Garmin/001.png)
+
+
+## <a id="c100">(CADO)空氣清淨機C100</a>
+
+> 需按售價補差額: TWD $3,960元
+
+
+## <a id="c300">(CADO)空氣清淨機C300</a>
+
+> 需按售價補差額: TWD $8,200元
+
+
+

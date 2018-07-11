@@ -108,8 +108,6 @@
 
 ![](assets/Cado/C100/002.png)
 
-![](assets/Cado/C100/003.png)
-
 
 > 詳細規格請右鍵下載[PDF文件](assets/Cado/空氣清淨機.pdf)(官網無此商品介紹)
 

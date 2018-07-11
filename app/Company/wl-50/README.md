@@ -45,30 +45,18 @@
 |:-----------------------:|:-----|:--------|
 | 組合一 | 體重體脂肪機 HBF-375+低週波治療器 HV-F128 | [體重體脂肪機 HBF-375](https://www.omronhealthcare.com.tw/product/ins.php?index_prm_id=0&index_id=66) <br /> [低週波治療器HV-F128](https://www.omronhealthcare.com.tw/product/ins.php?index_prm_id=6&index_id=50)  |
 | 組合二 | 體重體脂肪機 HBF-375+手臂式血壓計 JPN-601 | [體重體脂肪機 HBF-375](https://www.omronhealthcare.com.tw/product/ins.php?index_prm_id=0&index_id=66) <br /> [手臂式血壓計JPN-601](https://www.omronhealthcare.com.tw/product/ins.php?index_prm_id=0&index_id=72) |
-| 組合三 | 體重體脂肪機 HBF-701+低週波治療器 HV-F127   | [體重體脂肪機 HBF-701](https://www.omronhealthcare.com.tw/product/ins.php?index_prm_id=0&index_id=23) <br /> [低週波治療器HV-F127](https://www.omronhealthcare.com.tw/product/ins.php?index_prm_id=6&index_id=49) |
-| 組合四 | 體重體脂肪機 HBF-701+手臂式血壓計 JPN-500  | [體重體脂肪機 HBF-701](https://www.omronhealthcare.com.tw/product/ins.php?index_prm_id=0&index_id=23) <br /> [手臂式血壓計JPN-500](https://www.omronhealthcare.com.tw/product/ins.php?index_prm_id=0&index_id=70) |
 
 
 - 體重體脂肪機 HBF-375
 
   ![](assets/Omron/HBF-375-001.png)
 
-- 體重體脂肪機 HBF-701
-
-  ![](assets/Omron/HBF-701-001.png)
-  
-- 低週波治療器 HV-F127
-
-  ![](assets/Omron/HV-F127-001.png)
   
 - 低週波治療器 HV-F128
 
   ![](assets/Omron/HV-F128-001.png)
   
-- 手臂式血壓計 JPN-500
 
-  ![](assets/Omron/JPN-500-001.png)
-  
 - 手臂式血壓計 JPN-601
 
   ![](assets/Omron/JPN-601-001.png)

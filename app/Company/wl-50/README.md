@@ -66,6 +66,7 @@
 
 ## <a id="samsung">(三星)運動手環Gear Fit2 Pro</a>
 
+
 ![](assets/Samsung/001.jpg)
 
 ![](assets/Samsung/002.jpg)
@@ -82,6 +83,19 @@
 ![](assets/Garmin/001.png)
 
 ![](assets/Garmin/002.png)
+
+![](assets/Garmin/003.png)
+
+
+|  顏色選擇  |
+|:---------:|
+|    黑色	   |
+|   珊瑚紅   |
+|   萊姆綠   |
+
+
+
+
 
 > 詳細規格請參考[官網](http://www.garmin.com.tw/products/intosports/vivosport-slate-s/)
 

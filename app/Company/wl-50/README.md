@@ -1,8 +1,8 @@
 
 --- 
 
-1. <a href="#concen-foot">(康生)遠紅外線養生 加拿大原木(長)桑拿桶足泡腳機</a>
-2. <a href="#concen-masha">(康生)3D手感揉搥指壓按摩椅墊/按摩墊</a>
+1. <a href="#concen-foot">(康生)原木(長)遠紅外線百石桑拿桶足泡腳機</a>
+2. <a href="#concen-masha">(康生)魔法3D手感柔搥指壓按摩椅墊</a>
 3. <a href="#omron">(台灣歐姆龍OMRON)體重體脂肪機</a>
 4. <a href="#samsung">(三星)運動手環Gear Fit2 Pro</a>
 5. <a href="#garmin">(GARMIN)運動手環Vivosport</a>
@@ -12,7 +12,7 @@
 
 --- 
 
-## <a id="concen-foot">(康生)遠紅外線養生 加拿大原木(長)桑拿桶足泡腳機</a>
+## <a id="concen-foot">(康生)原木(長)遠紅外線百石桑拿桶足泡腳機</a>
 
 ![](assets/Concen-泡腳機/001.jpg)
 
@@ -25,7 +25,7 @@
 
 --- 
 
-## <a id="concen-masha">(康生)3D手感揉搥指壓按摩椅墊/按摩墊</a>
+## <a id="concen-masha">(康生)魔法3D手感柔搥指壓按摩椅墊</a>
 
 ![](assets/Concen-按摩墊/001.gif)
 

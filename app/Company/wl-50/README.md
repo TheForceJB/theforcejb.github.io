@@ -31,7 +31,7 @@
 
 ![](assets/Concen-按摩墊/002.jpg)
 
-![](assets/Concen-按摩墊/003.jpg)
+![](assets/Concen-按摩墊/003.JPG)
 
 > 詳細規格請參考[官網](http://www.come-in.com.tw/product-detail.php?p=67)
 

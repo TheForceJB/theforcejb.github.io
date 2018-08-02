@@ -20,7 +20,7 @@
 
 ![](assets/Concen-泡腳機/003.gif)
 
-> 詳細規格請參考[momo購物網](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=5232178)(官網無此商品介紹)
+> 詳細規格請參考[momo購物網](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=5250864)(官網無此商品介紹)
 
 
 --- 
